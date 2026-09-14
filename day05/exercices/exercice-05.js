@@ -18,4 +18,4 @@
 // TODO: écris ta solution ici.
 
 let phrase = "Bonjour tout le monde"
-console.log(phrase.indexOf(" ")+1) 
+console.log(phrase.indexOf(" ")) 

@@ -16,6 +16,6 @@
 // 2. Écris ta solution sous cette ligne.
 // TODO: écris ta solution ici.
 
-let number = 1234567
+
 
 

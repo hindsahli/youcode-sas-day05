@@ -5,7 +5,8 @@
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction chiffrerCesar(texte, decalage) qui décale chaque lettre de l'alphabet. Par exemple, avec un décalage de 1, "ABC" devient "BCD".
+ * Créez une fonction chiffrerCesar(texte, decalage) qui décale chaque lettre de l'alphabet. 
+ * Par exemple, avec un décalage de 1, "ABC" devient "BCD".
  *
  * 📖 Consigne détaillée : ../03-exercices.md#exercice-17
  * ▶️ Commande : node day05/exercices/exercice-17.js

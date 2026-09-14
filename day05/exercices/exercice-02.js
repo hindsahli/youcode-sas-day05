@@ -17,9 +17,5 @@
 // TODO: écris ta solution ici.
 
 let  mot = "Programmation"
-let i = 0
-while (i <= mot.length - 1)
-{
-    console.log(mot[i])
-    i++
-}
+console.log(mot[0])
+console.log(mot[mot.length - 1])
