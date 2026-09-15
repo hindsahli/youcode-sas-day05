@@ -41,12 +41,11 @@ function filtrerMessage(message)
         let motMinuscule = minuscule(message[i])
         if (motMinuscule === "noob" || motMinuscule === "idiot" || motMinuscule === "nul")
         {
-            let curse = ""
             for(let j = 0 ; j < message[i].length ; j++)
             {
-               curse += "*"
+                 message[i] = message[i].replace(message[i][j], "*")
             }
-            message[i] = curse
+  
         }
         i++
     }
